@@ -17,12 +17,12 @@ class Aptech{
     }
 }
 
-const rafay = new Aptech(2, 5);
-const ayan = new Aptech(4, 10);
+// const rafay = new Aptech(2, 5);
+// const ayan = new Aptech(4, 10);
 const asad = new Aptech(3, 7);
 
 // rafay.students("Rafay");
 // ayan.students("Ayan");
-// asad.faculty(199);
+asad.faculty(199);
 
 
